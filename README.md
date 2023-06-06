@@ -9,7 +9,7 @@ This Python program is designed to scrape a specific website and retrieve inform
 Clone the repository or download the scrape_postings.py file.
 Open a terminal and navigate to the directory containing the script.
 Run the following command:
-  ## python scrape_postings.py
+  python scrape_postings.py
 
 
 ## Installation
